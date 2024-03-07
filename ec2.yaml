@@ -24,7 +24,7 @@
     ansible_python_interpreter: /usr/bin/python3.10
     keypair: folly2
     instance_type: t2.micro
-    image_id: ami-0f403e3180720dd7e
+    image_id: ami-07d9b9ddc6cd8dd30
     wait: yes
     group: webserver
     count: 1
